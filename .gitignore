@@ -70,6 +70,8 @@ data/raw/*
 !data/raw/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
+!data/processed/fund_scorecard.csv
+!data/processed/alpha_beta.csv
 
 # IDEs & Editors
 .vscode/
